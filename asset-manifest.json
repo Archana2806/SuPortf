@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/suportf/static/css/main.e2fc2aef.css",
+    "main.js": "/suportf/static/js/main.de5cb527.js",
+    "static/media/bgvideo3.gif": "/suportf/static/media/bgvideo3.a12b22053a07665abe7c.gif",
+    "static/media/bgvideo1.gif": "/suportf/static/media/bgvideo1.dad6e9c34511fd755e71.gif",
+    "static/media/bgvideo2.gif": "/suportf/static/media/bgvideo2.9a8b31e3ff915fceb6f0.gif",
+    "static/media/sushiport.png": "/suportf/static/media/sushiport.23c7e243411d657967a8.png",
+    "static/media/Example-Cv.pdf": "/suportf/static/media/Example-Cv.3e87991a144ee8e61a42.pdf",
+    "static/media/about.jpg": "/suportf/static/media/about.a0404886b896e9109446.jpg",
+    "static/media/profile.jpg": "/suportf/static/media/profile.cc9e9d8d1b122439cbc2.jpg",
+    "static/media/HArduino.png": "/suportf/static/media/HArduino.42ac4c9da946c50987c1.png",
+    "index.html": "/suportf/index.html",
+    "main.e2fc2aef.css.map": "/suportf/static/css/main.e2fc2aef.css.map",
+    "main.de5cb527.js.map": "/suportf/static/js/main.de5cb527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2fc2aef.css",
+    "static/js/main.de5cb527.js"
+  ]
+}
