@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import CV from "../../assets/Example-Cv.pdf";
+import CV from "../../assets/Sumit_Resume.pdf";
 
 
 const WordRotator = ({ words, interval }) => {
